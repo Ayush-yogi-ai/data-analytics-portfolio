@@ -80,6 +80,28 @@ Recommendations
 
 ---
 
+---
+## ⭐ Featured Projects
+
+### 1. Credit Risk & Loan Portfolio Analytics
+
+**Python | SQL | MySQL | Power BI | DAX**
+
+End-to-end credit risk analytics project analyzing 12,000 loan records to evaluate portfolio exposure, borrower risk, credit scores, DTI, LTI, loan purpose, regional performance and approval efficiency.
+
+**Highlights:**
+- Python data auditing and quality validation
+- DTI investigation and feature engineering
+- MySQL business analysis
+- 7 structured SQL analysis modules
+- 4-page interactive Power BI dashboard
+- Executive KPIs and risk segmentation
+- Regional and customer-level analysis
+
+📁 [View Project](./credit-risk-analytics)
+
+---
+
 # ⭐ Featured Project
 
 ## Business Intelligence & Predictive Analytics Platform
